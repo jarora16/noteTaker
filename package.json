@@ -1,14 +1,27 @@
 {
   "name": "note-taker",
   "version": "1.0.0",
-  "description": "",
+  "description": "## Description",
   "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
-  "license": "ISC",
+  "author": "Jay Arora",
+  "license": "MIT",
   "dependencies": {
-    "express": "^4.16.4"
-  }
+    "express": "^4.17.1",
+    "require": "^2.4.20"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jarora16/noteTaker.git"
+  },
+  "keywords": [
+    "Note",
+    "taker"
+  ],
+  "bugs": {
+    "url": "https://github.com/jarora16/noteTaker/issues"
+  },
+  "homepage": "https://github.com/jarora16/noteTaker#readme"
 }
